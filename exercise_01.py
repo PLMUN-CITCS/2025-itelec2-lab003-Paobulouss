@@ -1,5 +1,3 @@
-print(f"Sum: {num1 + num2:.2f}")
-
 # Christian Paolo Marfil
 # ITELEC2
 # Laboratory #03 – Guided Coding Exercise:
